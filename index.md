@@ -2,4 +2,4 @@
 
 This is my webpage
 
-[About me](/docs/about/)
+[About me](docs/about/)
